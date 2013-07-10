@@ -22,7 +22,6 @@ If the maze grid has x rows and y columns, then the running time of the algorith
 1. Time to fill the maze matrix = x * y
 2. Time to perform bfs = x*y (number of vertices) +  2*x*y (number of edges) = O(xy).
 3. Everything else = constant time O(1).
-958640
 **/
 
 #include <iostream>
