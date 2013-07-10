@@ -8,7 +8,6 @@ bottom, left, right) directions. The maze is a grid of x vertical
 rows and y horizontal columns. 
 
 Authors : Piyush Verma
-Ravdeep Johar
 
 Pseudocode for the search : 
 1. push start node into queue
